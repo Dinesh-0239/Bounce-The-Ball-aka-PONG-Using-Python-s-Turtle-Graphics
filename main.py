@@ -19,7 +19,7 @@ from scoreboard import Scoreboard
 from player import Player
 from border import Border
 from time import sleep
-import threading
+# import threading
 #--------------------------------------------------------------------------------------------------#
 LEFT_PLAYER_PADDLE_XPOS = -380
 RIGHT_PLAYER_PADDLE_XPOS = 380
